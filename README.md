@@ -2,7 +2,8 @@
 
 <h1> Gambar </h1>
 
-!http://s1347.photobucket.com/user/Mohammad_Nabil_Rizqi/media/recyclerview2_zps09g4dnub.png.html
+![recyclerview2](https://cloud.githubusercontent.com/assets/22103901/21042679/9c5d5f80-be25-11e6-8bfb-b0a5de234bdf.PNG)
+
 
 <h1> identitas </h1>  
 nama : Mohammad Nabil Rizqi<br>  
